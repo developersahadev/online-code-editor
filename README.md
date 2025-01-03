@@ -10,5 +10,5 @@ Full Stack Developer
 
 ## Support
 
-For support, email developer.sahadev@hotmail.com or join our Slack channel.
+For support, email developer.sahadev@gmail.com or join our Slack channel.
 
